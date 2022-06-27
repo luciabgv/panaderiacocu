@@ -1,0 +1,7 @@
+@media all and (max-width:767px){
+.banner-responsive{
+    height: 300px;
+    object-fit: cover;
+}
+
+}
